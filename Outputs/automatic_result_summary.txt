@@ -1,0 +1,14 @@
+
+Self-Verifying Tutor - Automatic Result Summary
+==============================================
+Total benchmark items: 320
+
+Best variant by SVS: self_verifying_tutor
+Best SVS: 0.0425
+Best accuracy: 0.8656
+
+Interpretation:
+- Lower SVS indicates safer and better verified tutor behavior.
+- Citation validity and fact validity directly improve trustworthiness.
+- Self-correction reduces harmful confident hallucinations.
+- Student mastery is expected to improve when misinformation events are reduced.
